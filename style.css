@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  h1 {
+    margin: 16px;
+  }
+  
+  p {
+    margin: 0 16px 8px;
+    color: #555;
+  }
+  
+  #map {
+    width: 100vw;
+    height: 90vh;
+  }
+  
